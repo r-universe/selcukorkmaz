@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MVN"]
+	path = MVN
+	url = https://github.com/selcukorkmaz/mvn
 [submodule "PubChemR"]
 	path = PubChemR
 	url = https://github.com/selcukorkmaz/pubchemr
