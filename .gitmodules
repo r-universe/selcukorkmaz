@@ -8,3 +8,6 @@
 [submodule "PubChemR"]
 	path = PubChemR
 	url = https://github.com/selcukorkmaz/pubchemr
+[submodule "fastml"]
+	path = fastml
+	url = https://github.com/selcukorkmaz/fastml
