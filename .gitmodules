@@ -8,6 +8,9 @@
 [submodule "PubChemR"]
 	path = PubChemR
 	url = https://github.com/selcukorkmaz/pubchemr
+[submodule "bioLeak"]
+	path = bioLeak
+	url = https://github.com/selcukorkmaz/bioleak
 [submodule "fastml"]
 	path = fastml
 	url = https://github.com/selcukorkmaz/fastml
