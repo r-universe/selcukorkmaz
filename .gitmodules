@@ -14,3 +14,9 @@
 [submodule "fastml"]
 	path = fastml
 	url = https://github.com/selcukorkmaz/fastml
+[submodule "genSEIR"]
+	path = genSEIR
+	url = https://github.com/cran/genSEIR
+[submodule "rPDBapi"]
+	path = rPDBapi
+	url = https://github.com/cran/rPDBapi
