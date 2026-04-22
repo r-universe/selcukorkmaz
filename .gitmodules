@@ -20,3 +20,6 @@
 [submodule "rPDBapi"]
 	path = rPDBapi
 	url = https://github.com/cran/rPDBapi
+[submodule "splitGraph"]
+	path = splitGraph
+	url = https://github.com/selcukorkmaz/splitgraph
